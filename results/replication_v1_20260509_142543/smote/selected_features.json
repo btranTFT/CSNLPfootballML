@@ -1,0 +1,24 @@
+{
+  "selected_features": [
+    "num__is_derby",
+    "num__home_form",
+    "num__away_form",
+    "num__home_attack",
+    "num__away_attack",
+    "num__home_defense",
+    "num__away_defense",
+    "cat__match_date_2021-09-07",
+    "cat__match_date_2022-04-27",
+    "cat__match_date_2022-11-27",
+    "cat__match_date_2022-12-17",
+    "cat__match_date_2023-09-19",
+    "cat__league_Bundesliga",
+    "cat__league_EPL",
+    "cat__league_LaLiga",
+    "cat__league_Ligue1",
+    "cat__league_SerieA",
+    "cat__weather_clear",
+    "cat__weather_rain",
+    "cat__weather_snow"
+  ]
+}

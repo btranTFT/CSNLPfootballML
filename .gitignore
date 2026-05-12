@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local data/checkpoints
+data/*.zip
+data/*.parquet
+checkpoints/*
+
+# Keep result artifacts by default; uncomment if needed
+# results/*
