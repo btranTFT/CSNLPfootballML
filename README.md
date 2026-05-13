@@ -16,7 +16,7 @@ Replication target:
 - `scripts/`: runnable scripts for data generation and experiments
 - `src/`: modular preprocessing, modeling, and evaluation code
 - `results/`: metrics, confusion matrices, and artifacts from full runs
-- `docs/`: replication spec, risk memo, gap analysis, extension plan, paper draft, demo script
+- `paper/`: final paper source and PDF
 
 ## Setup
 ```bash
@@ -37,11 +37,6 @@ python scripts/run_experiment.py --config configs/replication.yaml
 3. Check outputs in:
 - `results/<experiment_name>_<timestamp>/imbalanced/...`
 - `results/<experiment_name>_<timestamp>/smote/...`
-
-4. Export draft paper PDF:
-```bash
-python scripts/export_paper_pdf.py
-```
 
 ## Config Notes
 Default config is `configs/replication.yaml`:
@@ -70,12 +65,9 @@ Run ID: `replication_v1_20260509_142543`
 - Confusion matrices exported to CSV and PNG
 
 ## Deliverables in this Repo
-- Replication spec: `docs/02_replication_spec.md`
-- Run analysis: `docs/03_replication_run_and_gap_analysis.md`
-- Extension design: `docs/04_extension_plan.md`
-- EMNLP-style draft: `docs/05_emnlp_paper_draft.md`
-- Exported PDF draft: `paper/CS5170_Project_Paper.pdf`
-- Demo script: `docs/06_demo_video_script.md`
+- Final EMNLP-format paper source: `paper/CS5170_Project_Paper.tex`
+- Final bibliography: `paper/CS5170_Project_Paper.bib`
+- Final paper PDF: `paper/CS5170_Project_Paper.pdf`
 
 ## Checkpoints
 - No model checkpoint files are committed to this repository by default.
