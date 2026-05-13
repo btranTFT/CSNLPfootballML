@@ -74,7 +74,7 @@ Run ID: `replication_v1_20260509_142543`
 - Run analysis: `docs/03_replication_run_and_gap_analysis.md`
 - Extension design: `docs/04_extension_plan.md`
 - EMNLP-style draft: `docs/05_emnlp_paper_draft.md`
-- Exported PDF draft: `paper/emnlp_paper_draft.pdf`
+- Exported PDF draft: `paper/CS5170_Project_Paper.pdf`
 - Demo script: `docs/06_demo_video_script.md`
 
 ## Checkpoints

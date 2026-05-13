@@ -13,7 +13,7 @@ This file is a placeholder index for the report drafting process.
 
 ## Notes
 - The formal submission artifact is expected as a PDF in EMNLP format.
-- Current exported draft location: `paper/emnlp_paper_draft.pdf`.
+- Current exported draft location: `paper/CS5170_Project_Paper.pdf`.
 ## Title
 Replication and Draw-Aware Extension Plan for Football Outcome Prediction with Classical Machine Learning
 
